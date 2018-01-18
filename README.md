@@ -1,5 +1,7 @@
 # Testsm
 
+This is just a project to demonstrate how SASS in components using imports results in an incorrect source in the browser.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
 
 ## Development server
